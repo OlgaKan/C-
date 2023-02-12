@@ -25,4 +25,3 @@ int InCenter(int a)
     int result = ((a / 10) % 10);
     return result;
 }
-
