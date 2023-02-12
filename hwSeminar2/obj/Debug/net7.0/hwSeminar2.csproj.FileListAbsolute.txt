@@ -1,0 +1,15 @@
+C:\Users\Пользователь\OneDrive\Рабочий стол\home work c #\hwSeminar2\bin\Debug\net7.0\hwSeminar2.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\home work c #\hwSeminar2\bin\Debug\net7.0\hwSeminar2.deps.json
+C:\Users\Пользователь\OneDrive\Рабочий стол\home work c #\hwSeminar2\bin\Debug\net7.0\hwSeminar2.runtimeconfig.json
+C:\Users\Пользователь\OneDrive\Рабочий стол\home work c #\hwSeminar2\bin\Debug\net7.0\hwSeminar2.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\home work c #\hwSeminar2\bin\Debug\net7.0\hwSeminar2.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\home work c #\hwSeminar2\obj\Debug\net7.0\hwSeminar2.csproj.AssemblyReference.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\home work c #\hwSeminar2\obj\Debug\net7.0\hwSeminar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\OneDrive\Рабочий стол\home work c #\hwSeminar2\obj\Debug\net7.0\hwSeminar2.AssemblyInfoInputs.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\home work c #\hwSeminar2\obj\Debug\net7.0\hwSeminar2.AssemblyInfo.cs
+C:\Users\Пользователь\OneDrive\Рабочий стол\home work c #\hwSeminar2\obj\Debug\net7.0\hwSeminar2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\home work c #\hwSeminar2\obj\Debug\net7.0\hwSeminar2.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\home work c #\hwSeminar2\obj\Debug\net7.0\refint\hwSeminar2.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\home work c #\hwSeminar2\obj\Debug\net7.0\hwSeminar2.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\home work c #\hwSeminar2\obj\Debug\net7.0\hwSeminar2.genruntimeconfig.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\home work c #\hwSeminar2\obj\Debug\net7.0\ref\hwSeminar2.dll
